@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.form{
+    width: 400px;
+    padding-top: 35px;
+    margin: 30px 50px;
+    text-align: center;
+    background-color: rgb(122, 12, 212);
+    box-sizing: border-box;
+    h3{
+        color: #fff;
+        font-size: 22px;
+        margin-bottom: 16px;
+    }
+}
+.form input{
+    font-size: 17px;
+    padding: 8px;
+    margin: 10px 0;
+}
+.form p{
+    color: rgb(247, 42, 6);
+    font-size: 14px;
+}
+.form button{
+    cursor: pointer;
+    padding: 6px 10px;
+    margin-bottom: 20px;
+}
